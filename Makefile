@@ -1,2 +1,2 @@
 codeowners:
-    env|rev
+	env|rev
